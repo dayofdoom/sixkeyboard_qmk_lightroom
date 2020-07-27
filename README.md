@@ -1,14 +1,14 @@
 # Firmware for Techkeys.us Sixkeyboard
 Lightroom specific keymap for Techkeys.us Sixkeyboard using QMK.  
 
-
+```
  ┌──────┬────────────┬────────────┐
  │ OS+U │ SHIFT+OS+U │ SHIFT+OS+E │
  ├──────┼────────────┼────────────┤
  │ LEFT │     F      │    RIGHT   │
  └──────┴────────────┴────────────┘
  
- 
+ ```
  
  
  ## General
